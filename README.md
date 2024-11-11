@@ -1,6 +1,7 @@
 # ML_in_Sports
 
 Fast View of a Machine Learning (ML) Introduction Subject.
+
 ![Screenshot from 2024-11-11 11-19-34](https://github.com/user-attachments/assets/aae48aed-5a06-4674-9dbd-f9435de5e267)
 
 This is an ML introduction focused on Sports Analytics. Here, you can find information about ML, its relation with AI and DL, examples in several fields of knowledge, and exclusive examples with sparse data. The introduction is centered on interested students with no expertise in programming languages or computer science training, but a minimum of statistical context is always welcome. Hence, we'll develop a road trip on ML by using the free online sftwr Orange Data Mining which includes free datasets, even with Sports data.
