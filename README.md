@@ -7,7 +7,7 @@ Seminar course focused on students with interests in data analysis and machine l
 
 ### Links where you can download related data.
 
-Football: https://fbref.com/en/comps/12/stats/La-Liga-Stats
-NBA: https://www.basketball-reference.com/leagues/NBA_2023_totals.html
-Premier League: https://data.world/evangower/english-premier-league-2022-23-match-data
-Kaggle Community: https://www.kaggle.com/code/maximdrejdink/predicting-football-match-results-classification/notebook
+* Football: https://fbref.com/en/comps/12/stats/La-Liga-Stats
+* NBA: https://www.basketball-reference.com/leagues/NBA_2023_totals.html
+* Premier League: https://data.world/evangower/english-premier-league-2022-23-match-data
+* Kaggle Community: https://www.kaggle.com/code/maximdrejdink/predicting-football-match-results-classification/notebook
