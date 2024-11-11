@@ -1,4 +1,4 @@
-# ML_in_Sports
+# Machine Learning Introduction to Sports
 
 Fast View of a Machine Learning (ML) Introduction Subject.
 
